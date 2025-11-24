@@ -9,7 +9,7 @@ I’m happy to provide **private access** for hiring or evaluation purposes.
 
 # Anyways....Hi, I'm Shrutee Salpe! 👋
 
-I’m a Computer Engineering student who enjoys building real, practical systems — from full-stack applications to data-driven dashboards to AI/ML models. I love understanding how things work end-to-end, solving challenging problems, and continuously learning new technologies that help me grow as an engineer.
+I’m a Computer Engineering student who enjoys building real, practical systems - from full-stack applications to data-driven dashboards to AI/ML models. I love understanding how things work end-to-end, solving challenging problems, and continuously learning new technologies that help me grow as an engineer.
 
 My work spans across:
 - 🌐 **Software & Web Development** – full-stack applications and intuitive interfaces  
@@ -55,4 +55,4 @@ An interactive Tableau dashboard built from large-scale crime datasets to uncove
 
 ---
 
-Thankyou for visiting my profile and taking the time to review my work — I'm always open to connect or collaborate.
+Thankyou for visiting my profile and taking the time to review my work - I'm always open to connect or collaborate.
