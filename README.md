@@ -64,4 +64,4 @@ I’m happy to provide **private access** for hiring or evaluation purposes.
 
 ---
 
-Thanks for visiting my profile!
+Thankyou for visiting my profile and taking the time to review my work — I'm always open to connect or collaborate.
