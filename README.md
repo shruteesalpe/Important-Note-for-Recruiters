@@ -26,7 +26,7 @@ I’m always excited to work on impactful systems, explore new engineering pract
 ### Automated Timetable Generation System
 A system that generates fully conflict-free college timetables within seconds. Built using optimization algorithms and deployed as a full-stack application.
 
-### Privacy Risk Analyzer (NLP)
+### Privacy Risk Analyzer
 A DistilBERT-based multi-label classifier to detect risks in website privacy policies, deployed with an interactive Streamlit interface.
 
 ### Customer Churn Prediction Web App
