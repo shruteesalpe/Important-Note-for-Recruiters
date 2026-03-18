@@ -1,6 +1,6 @@
 ## 📌 Important Note for Recruiters
 
-Please note that my **primary major project "Automated Timetable Generation System" is private** because it is currently in the publication process and involves novel research work.  
+Please note that my **primary major project "Automated Timetable Generation System" is private** because it involves novel research work.  
 I’m happy to provide **private access** for hiring or evaluation purposes.
 
 📩 Reach me at **salpeshrutee@gmail.com**
