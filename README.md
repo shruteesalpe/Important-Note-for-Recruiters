@@ -48,8 +48,8 @@ An interactive Tableau dashboard built from large-scale crime datasets to uncove
 
 **Languages:** Python, C++, Java  
 **Web:** HTML, CSS, JavaScript, React, AngularJS, Node.js  
-**Data:** SQL, PostgreSQL, Firebase, Tableau, ML pipelines  
-**Tools:** VS Code, Git, GitHub, Android Studio, Docker (basic), SAS Studio, Hadoop concepts (HDFS)  
+**Data:** SQL, PostgreSQL, Supabase, Firebase, Tableau, ML pipelines  
+**Tools:** VS Code, Antigravity, Git, GitHub, Android Studio, Docker (basic), SAS Studio, Hadoop concepts (HDFS)  
 
 ---
 
