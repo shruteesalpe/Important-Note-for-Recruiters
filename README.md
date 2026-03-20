@@ -3,6 +3,8 @@
 Please note that my **primary major project "Automated Timetable Generation System" is private** because it involves novel research work.  
 I’m happy to provide **private access** for hiring or evaluation purposes.
 
+Additionally, one more project "**Policy Analysis and Recommendation System**" is private due to company policies. I can manually grant access for evaluation if required.
+
 📩 Reach me at **salpeshrutee@gmail.com**
 
 ---
@@ -25,6 +27,9 @@ I’m always excited to work on impactful systems, explore new engineering pract
 
 ### Automated Timetable Generation System
 A system that generates fully conflict-free college timetables within seconds. Built using optimization algorithms and deployed as a full-stack application.
+
+### Policy Analysis and Recommendation System
+An AI-based system to analyze insurance policies and generate personalized recommendations using a RAG pipeline, with an integrated chatbot and secure authentication for user interaction.
 
 ### Privacy Risk Analyzer
 A DistilBERT-based multi-label classifier to detect risks in website privacy policies, deployed with an interactive Streamlit interface.
