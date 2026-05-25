@@ -1,9 +1,6 @@
 ## 📌 Important Note for Recruiters
 
-Please note that my **primary major project "Automated Timetable Generation System" is private** because it involves novel research work.  
-I’m happy to provide **private access** for hiring or evaluation purposes.
-
-Additionally, one more project "**Policy Analysis and Recommendation System**" is private due to company policies. I can manually grant access for evaluation if required.
+Please note that my "**Policy Analysis and Recommendation System**" is private due to company policies. I can manually grant access for evaluation if required.
 
 📩 Reach me at **salpeshrutee@gmail.com**
 
